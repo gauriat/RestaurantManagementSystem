@@ -39,3 +39,8 @@ The Restaurant Management System is a web application. This system is to automat
 •	Should be able to update the food items as available when supplied.
 
 •	Should be able to update information about the ingredients and some of their advantages when consumed.
+
+## ER Diagram
+![Course_er](https://github.com/gauriat/RestaurantManagementSystem/assets/147273082/8f5a13a9-1a9d-474b-b3c5-e483a2973dc2)
+
+
